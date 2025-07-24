@@ -3,6 +3,7 @@
 Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com forte interesse em back-end, APIs, infraestrutura e desenvolvimento em nuvem. Tenho experiência prática com tecnologias como TypeScript, Java, Node.js, Spring Boot, React, Next.js, Angular, MongoDB e Docker. Já desenvolvi soluções completas com REST APIs, integração com bancos NoSQL, autenticação, e CI/CD usando GitHub Actions. Também estou sempre me aprofundando em temas como redes, servidores, automação, arquitetura de software e ambientes em cloud computing.
 
 ### Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="Java" 
@@ -28,15 +29,6 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
@@ -92,10 +84,11 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<br/>
+<br/>
 ### 📺 Últimos Projetos
 
-[![Mojito Cocktails](URL-da-imagem)]([URL-do-projeto](https://github.com/garibaldii/gsap-mojito-cocktails.git))
+[![Mojito Cocktails](URL-da-imagem)]((https://github.com/garibaldii/gsap-mojito-cocktails.git))
 
 
 <br/>
