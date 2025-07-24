@@ -97,7 +97,7 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
 <br/>
 <br/>
 
-### Projetos
+### Projetos Recentes
 
 <table>
   <thead>
@@ -105,6 +105,7 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
       <th align="center">Mojito Cocktails</th>
       <th align="center">Crud AWS ☁️</th>
       <th align="center">App Cadastro de Professores</th>
+      <th align=""center>Gerenciador de Estoque</th>
     </tr>
   </thead>
   <tbody>
@@ -122,6 +123,11 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
       <td align="center">
         <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
           <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350px" alt="Cadastro de Professores" />
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://github.com/garibaldii/front-estoqueLDS">
+          <img src="https://github.com/user-attachments/assets/52d8ee70-b14f-4bde-a228-1f6481648bf8" width="350px" alt="Gerenciador de Estoque" />
         </a>
       </td>
     </tr>
