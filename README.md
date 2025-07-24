@@ -100,28 +100,36 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
 ### Projetos
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/garibaldii/gsap-mojito-cocktails">
-        <img src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" width="250px" alt="Mojito Cocktails" /><br/>
-        <strong>Mojito Cocktails</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
-        <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="250px" alt="Cadastro de Professores" /><br/>
-        <strong>App Cadastro de Professores</strong>
-      </a>
-    </td>
-    </td>
-    <td align="center">
-      <a href="https://github.com/garibaldii/front-aws.git">
-        <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="250px" alt="Crud AWS" /><br/>
-        <strong>Crud AWS ☁️</strong>
-      </a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="center">Mojito Cocktails</th>
+      <th align="center">Crud AWS ☁️</th>
+      <th align="center">App Cadastro de Professores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/garibaldii/gsap-mojito-cocktails">
+          <img src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" width="350px" alt="Mojito Cocktails" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/garibaldii/front-aws.git">
+          <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350px" alt="Crud AWS" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
+          <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350px" alt="Cadastro de Professores" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+
+
 <br/>
 <br/>
 
