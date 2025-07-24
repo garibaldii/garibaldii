@@ -105,7 +105,7 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
       <th align="center">Mojito Cocktails</th>
       <th align="center">Crud AWS ☁️</th>
       <th align="center">App Cadastro de Professores</th>
-      <th align=""center>Gerenciador de Estoque</th>
+      <th align=""center>Gerenciador de Estoque(em curso)</th>
     </tr>
   </thead>
   <tbody>
