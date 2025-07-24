@@ -132,9 +132,6 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
   </tbody>
 </table>
 
-
-
-<br/>
 <br/>
 
 ### Estatísticas
@@ -144,7 +141,7 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
   <img 
       alt="Github Stats" 
       title="Github Stats"
-      height="180px" 
+      height="150px" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api?username=garibaldii&show_icons=true&theme=outrun&locale=pt-br" 
   />
@@ -152,7 +149,7 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
   <img 
       alt="Top Langs" 
       title="Top Langs"
-      height="180px" 
+      height="150px" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=garibaldii&theme=outrun&layout=compact&custom_title=Tecnologias" 
   />
