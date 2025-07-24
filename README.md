@@ -96,17 +96,32 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
 />
 <br/>
 <br/>
-### 📺 Últimos Projetos
 
-<p>Mojito Cocktails</p>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" />
+### Projetos
 
-[![Cadastro de Professores](https://user-images.githubusercontent.com/SEU_USUARIO/IMAGEM_DO_PROJETO.png)](https://github.com/seu-usuario/seu-repositorio)
-[![Controle de Estoque](https://user-images.githubusercontent.com/SEU_USUARIO/IMAGEM_DO_PROJETO.png)](https://github.com/seu-usuario/seu-repositorio)
-[![Crud AWS ☁️](https://user-images.githubusercontent.com/SEU_USUARIO/IMAGEM_DO_PROJETO.png)](https://github.com/seu-usuario/seu-repositorio)
-
-
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/garibaldii/gsap-mojito-cocktails">
+        <img src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" width="250px" alt="Mojito Cocktails" /><br/>
+        <strong>Mojito Cocktails</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
+        <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="250px" alt="Cadastro de Professores" /><br/>
+        <strong>App Cadastro de Professores</strong>
+      </a>
+    </td>
+    </td>
+    <td align="center">
+      <a href="https://github.com/garibaldii/front-aws.git">
+        <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="250px" alt="Crud AWS" /><br/>
+        <strong>Crud AWS ☁️</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 <br/>
 <br/>
 
