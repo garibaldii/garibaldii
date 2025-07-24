@@ -136,25 +136,18 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
 
 ### Estatísticas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
+<p align="left">
   <img 
-      alt="Github Stats" 
-      title="Github Stats"
-      height="150px" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=garibaldii&show_icons=true&theme=outrun&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=garibaldii&show_icons=true&theme=outrun&locale=pt-br" 
+    alt="Github Stats" 
+    height="150px" 
   />
-
   <img 
-      alt="Top Langs" 
-      title="Top Langs"
-      height="150px" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=garibaldii&theme=outrun&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=garibaldii&theme=outrun&layout=compact&custom_title=Tecnologias" 
+    alt="Top Langs" 
+    height="150px" 
   />
-
-</div>
+</p>
 
 
 
