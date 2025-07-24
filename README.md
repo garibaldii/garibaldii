@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao meu perfil! 👋
+## Olá, bem-vindo ao meu perfil! ;)
 
 Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com forte interesse em back-end, APIs, infraestrutura e desenvolvimento em nuvem. Tenho experiência prática com tecnologias como TypeScript, Java, Node.js, Spring Boot, React, Next.js, Angular, MongoDB e Docker. Já desenvolvi soluções completas com REST APIs, integração com bancos NoSQL, autenticação, e CI/CD usando GitHub Actions. Também estou sempre me aprofundando em temas como redes, servidores, automação, arquitetura de software e ambientes em cloud computing.
 
@@ -21,6 +21,16 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+
 
 <img 
     align="left" 
@@ -89,9 +99,38 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
 ### 📺 Últimos Projetos
 
 [![Mojito Cocktails](URL-da-imagem)]((https://github.com/garibaldii/gsap-mojito-cocktails.git))
+[![Cadastro de Professores](https://user-images.githubusercontent.com/SEU_USUARIO/IMAGEM_DO_PROJETO.png)](https://github.com/seu-usuario/seu-repositorio)
+[![Controle de Estoque](https://user-images.githubusercontent.com/SEU_USUARIO/IMAGEM_DO_PROJETO.png)](https://github.com/seu-usuario/seu-repositorio)
+[![Crud AWS ☁️](https://user-images.githubusercontent.com/SEU_USUARIO/IMAGEM_DO_PROJETO.png)](https://github.com/seu-usuario/seu-repositorio)
+
 
 
 <br/>
 <br/>
 
 ### Estatísticas
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <img 
+      alt="Github Stats" 
+      title="Github Stats"
+      height="180px" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=garibaldii&show_icons=true&theme=outrun&locale=pt-br" 
+  />
+
+  <img 
+      alt="Top Langs" 
+      title="Top Langs"
+      height="180px" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=garibaldii&theme=outrun&layout=compact&custom_title=Tecnologias" 
+  />
+
+</div>
+
+
+
+
+
