@@ -1,5 +1,3 @@
-## Olá, bem-vindo ao meu perfil! ;)
-
 Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com forte interesse em back-end, APIs, infraestrutura e desenvolvimento em nuvem. Tenho experiência prática com tecnologias como TypeScript, Java, Node.js, Spring Boot, React, Next.js, Angular, MongoDB e Docker. Já desenvolvi soluções completas com REST APIs, integração com bancos NoSQL, autenticação, e CI/CD usando GitHub Actions. Também estou sempre me aprofundando em temas como redes, servidores, automação, arquitetura de software e ambientes em cloud computing.
 
 ### Linguagens e Tecnologias
