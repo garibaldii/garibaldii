@@ -98,13 +98,9 @@ Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC, com fort
 <br/>
 ### 📺 Últimos Projetos
 
-<a href="https://github.com/garibaldii/gsap-mojito-cocktails">
-  <img 
-    src="https://github.com/garibaldii/gsap-mojito-cocktails/blob/master/public/mojito-cocktails.gif?raw=true" 
-    alt="Mojito Cocktails Demo" 
-    width="300px"
-  />
-</a>
+<p>Mojito Cocktails</p>
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" />
+
 [![Cadastro de Professores](https://user-images.githubusercontent.com/SEU_USUARIO/IMAGEM_DO_PROJETO.png)](https://github.com/seu-usuario/seu-repositorio)
 [![Controle de Estoque](https://user-images.githubusercontent.com/SEU_USUARIO/IMAGEM_DO_PROJETO.png)](https://github.com/seu-usuario/seu-repositorio)
 [![Crud AWS ☁️](https://user-images.githubusercontent.com/SEU_USUARIO/IMAGEM_DO_PROJETO.png)](https://github.com/seu-usuario/seu-repositorio)
