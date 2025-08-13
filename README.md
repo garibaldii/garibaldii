@@ -116,75 +116,60 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
 ### Projetos Recentes
 
 <table>
-  <thead>
-    <tr>
-      <th align="center">Excel Auto Report (em curso)</th>
-      <th align="center">CRUD AWS ☁️</th>
-      <th align="center">App Cadastro de Professores</th>
-      <th align="center">Mojito Cocktails</th>
-      <th align="center">Gerenciador de Estoque (em curso)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <!-- Excel Auto Report -->
-      <td align="center">
-        <a href="https://github.com/garibaldii/api-auto-report">
-          <img src="https://via.placeholder.com/350x200?text=Loading" width="350" height="200" alt="Excel Auto Report" />
-          <br/>
-          <img     align="right"  alt="Spring" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
-          <img     align="left"  alt="Java" title="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-        </a>
-      </td>
-      <!-- CRUD AWS -->
-      <td align="center">
-        <a href="https://github.com/garibaldii/front-aws.git">
-          <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350" height="200" alt="Crud AWS" />
-          <br/>
-          <img     align="left"  alt="JavaScript" title="JavaScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          <img     align="right"  alt="Vite" title="Vite" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-          <img     align="left"  alt="AWS" title="AWS" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-          <img     align="right"  alt="MongoDB" title="MongoDB" width="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  
-          <img     align="center"  alt="MySQL" title="MySQL" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-        </a>
-      </td>
-      <!-- App Cadastro de Professores -->
-      <td align="center">
-        <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
-          <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350" height="200" alt="Cadastro de Professores" />
-          <br/>
-          <img     align="left"  alt="TypeScript" title="TypeScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-          <img     align="left"  alt="Next.js" title="Next.js" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-          <img     align="left"  alt="React" title="React" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          <img    align="left"  alt="MongoDB" title="MongoDB" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-          <img     align="left"  alt="Tailwind" title="Tailwind" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-        </a>
-      </td>
-      <!-- Mojito Cocktails -->
-      <td align="center">
-        <a href="https://github.com/garibaldii/gsap-mojito-cocktails">
-          <img src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" width="350" height="200" alt="Mojito Cocktails" />
-            <br/>
-            <img     align="left"  alt="JavaScript" title="JavaScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-            <img    align="left"  alt="Vite" title="Vite" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-            <img    align="left"  alt="Tailwind" title="Tailwind" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-        </a>
-      </td>
-      <!-- Gerenciador de Estoque -->
-      <td align="center">
-        <a href="https://github.com/garibaldii/front-estoqueLDS">
-          <img src="https://github.com/user-attachments/assets/52d8ee70-b14f-4bde-a228-1f6481648bf8" width="350" height="200" alt="Gerenciador de Estoque" />
-            <br/>
-            <img    align="left"  alt="TypeScript" title="TypeScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-            <img    align="left"  alt="Next.js" title="Next.js" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-            <img    align="left"  alt="React" title="React" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-            <img    align="left"  alt="MongoDB" title="MongoDB" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-            <img    align="left"  alt="Tailwind" title="Tailwind" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/garibaldii/front-aws.git">
+        <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350px" alt="Crud AWS" />
+      </a>
+      <p align="center">
+        <img alt="JavaScript" title="JavaScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+        <img alt="Vite" title="Vite" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+        <img alt="AWS" title="AWS" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+        <img alt="MongoDB" title="MongoDB" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  
+        <img alt="MySQL" title="MySQL" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/garibaldii/projeto2.git">
+        <img src="LINK_DA_IMAGEM_DO_PROJETO_2" width="350px" alt="Projeto 2" />
+      </a>
+      <p align="center">
+        <img alt="TypeScript" title="TypeScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+        <img alt="React" title="React" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+        <img alt="Node.js" title="Node.js" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+        <img alt="MongoDB" title="MongoDB" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  
+        <img alt="Docker" title="Docker" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/garibaldii/projeto3.git">
+        <img src="LINK_DA_IMAGEM_DO_PROJETO_3" width="350px" alt="Projeto 3" />
+      </a>
+      <p align="center">
+        <img alt="Java" title="Java" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+        <img alt="Spring Boot" title="Spring Boot" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+        <img alt="PostgreSQL" title="PostgreSQL" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+        <img alt="AWS" title="AWS" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />  
+        <img alt="Docker" title="Docker" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/garibaldii/projeto4.git">
+        <img src="LINK_DA_IMAGEM_DO_PROJETO_4" width="350px" alt="Projeto 4" />
+      </a>
+      <p align="center">
+        <img alt="Python" title="Python" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <img alt="FastAPI" title="FastAPI" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+        <img alt="PostgreSQL" title="PostgreSQL" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+        <img alt="Redis" title="Redis" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />  
+        <img alt="Docker" title="Docker" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+      </p>
+    </td>
+  </tr>
 </table>
+
 
 
 
