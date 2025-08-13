@@ -132,8 +132,8 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
         <a href="https://github.com/garibaldii/api-auto-report">
           <img src="https://via.placeholder.com/350x200?text=Loading" width="350" height="200" alt="Excel Auto Report" />
           <br/>
-          <img     align="left"  alt="Spring" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
-          <img     align="left"  alt="Java" title="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          <img     align="center"  alt="Spring" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+          <img     align="center"  alt="Java" title="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
         </a>
       </td>
       <!-- CRUD AWS -->
