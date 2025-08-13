@@ -136,17 +136,16 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
         </div>
       </td>
    <td align="center">
-  <a href="https://github.com/garibaldii/front-aws.git">
-    <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350px" alt="Crud AWS" />
-    <div style="margin-top: 30px;">
-      <img alt="Vite" title="Vite" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-      <img alt="AWS" title="AWS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-      <img alt="MongoDB" title="MongoDB" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-      <img alt="JavaScript" title="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img alt="MySQL" title="MySQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    </div>
-  </a>
-</td>
+      <a href="https://github.com/garibaldii/front-aws.git">
+        <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350px" alt="Crud AWS" />
+        <br/><br/>
+        <img alt="JavaScript" title="JavaScript" width="20px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          <img alt="Vite" title="Vite" width="20px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+          <img alt="AWS" title="AWS" width="20px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          <img alt="MongoDB" title="MongoDB" width="20px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  
+          <img alt="MySQL" title="MySQL" width="20px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+      </a>
+    </td>
       <td align="center">
           <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
             <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350px" alt="Cadastro de Professores" />
