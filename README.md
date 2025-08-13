@@ -144,7 +144,7 @@ ___
       <!-- CRUD AWS -->
       <td align="center">
         <a href="https://github.com/garibaldii/front-aws.git">
-          <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350" height="200" alt="Crud AWS" />
+          <img width="350" height="200" alt="CRUD AWS" src="https://github.com/user-attachments/assets/b53edaeb-8caf-4f88-9239-6aa568423895" />
         </a>
         <p>
           <img alt="JavaScript" title="JavaScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
