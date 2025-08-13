@@ -134,7 +134,7 @@ ___
       <!-- Excel Auto Report -->
       <td align="center">
         <a href="https://github.com/garibaldii/api-auto-report">
-           <img src="https://github.com/user-attachments/assets/eed356c1-b6a1-4cdb-b382-a6d57c3fd219" width="350" height="200" alt="Excel Auto Report"/>
+           <img src="https://github.com/user-attachments/assets/eed356c1-b6a1-4cdb-b382-a6d57c3fd219" width="400"  alt="Excel Auto Report"/>
         </a>
         <p>
           <img alt="Spring" title="Spring" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
@@ -144,7 +144,7 @@ ___
       <!-- CRUD AWS -->
       <td align="center">
         <a href="https://github.com/garibaldii/front-aws.git">
-          <img width="350" height="200" alt="CRUD AWS" src="https://github.com/user-attachments/assets/b53edaeb-8caf-4f88-9239-6aa568423895" />
+          <img width="450" alt="CRUD AWS" src="https://github.com/user-attachments/assets/b53edaeb-8caf-4f88-9239-6aa568423895" />
         </a>
         <p>
           <img alt="JavaScript" title="JavaScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
