@@ -188,6 +188,7 @@ ___
         <img       alt="JavaScript" title="JavaScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
             <img      alt="Vite" title="Vite" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
             <img      alt="Tailwind" title="Tailwind" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+            GSAP
         </p>
       </td>
       <!-- Gerenciador de Estoque -->
