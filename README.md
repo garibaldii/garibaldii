@@ -138,7 +138,7 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
    <td align="center">
   <a href="https://github.com/garibaldii/front-aws.git">
     <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350px" alt="Crud AWS" />
-    <div style="display: flex; justify-content: center; gap: 5px; margin-top: 5px;">
+    <div style="margin-top: 30px;">
       <img alt="Vite" title="Vite" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
       <img alt="AWS" title="AWS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
       <img alt="MongoDB" title="MongoDB" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
