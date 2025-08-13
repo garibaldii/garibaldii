@@ -157,7 +157,7 @@ ___
       <!-- App Cadastro de Professores -->
       <td align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/proj-cadastro/projeto-cadastro-app">
-          <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350" height="200" alt="Cadastro de Professores" />
+          <img width="350"  alt="Cadastro de Professores" src="https://github.com/user-attachments/assets/6c79fdf1-b2b1-406b-997c-59b72ddcf501" />
         </a>
         <p>
           <img alt="TypeScript" title="TypeScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
