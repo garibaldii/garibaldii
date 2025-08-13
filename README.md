@@ -22,8 +22,8 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
 
 <img 
     align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
+    alt="aws" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
@@ -121,11 +121,15 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
         <a href="https://github.com/garibaldii/api-auto-report">
         <img src="https://via.placeholder.com/350x200?text=Loading" width="350px" alt="Excel Auto Report" />
       </td>
-      <td align="center">
-        <a href="https://github.com/garibaldii/front-aws.git">
-          <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350px" alt="Crud AWS" />
-        </a>
-      </td>
+     <td align="center">
+      <a href="https://github.com/garibaldii/front-aws.git">
+        <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350px" alt="Crud AWS" />
+        <div style="display: flex; justify-content: center; gap: 5px; margin-top: 5px;">
+          <img alt="Vite" title="Vite" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+          <img alt="AWS" title="AWS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+        </div>
+      </a>
+    </td>
       <td align="center">
         <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
           <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350px" alt="Cadastro de Professores" />
