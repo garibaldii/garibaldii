@@ -122,7 +122,7 @@ ___
 <table>
   <thead>
     <tr>
-      <th align="center">Excel Auto Report (em curso) ⛏️⌛</th>
+      <th align="center">Excel Auto Report </br> (em curso) ⛏️⌛</th>
       <th align="center">CRUD AWS ☁️</th>
       <th align="center">App Cadastro de Professor</th>
       <th align="center">Mojito Cocktails</th>
