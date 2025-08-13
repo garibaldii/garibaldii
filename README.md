@@ -108,18 +108,18 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
 <table>
   <thead>
     <tr>
-      <th align="center">Mojito Cocktails</th>
-      <th align="center">Crud AWS ☁️</th>
+      <th align="center">Excel Auto Report(em curso)</th>
+      <th align="center">CRUD AWS ☁️</th>
       <th align="center">App Cadastro de Professores</th>
-      <th align=""center>Gerenciador de Estoque(em curso)</th>
+      <th align="center">Mojito Cocktails</th>
+      <th align="center">Gerenciador de Estoque (em curso)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/garibaldii/gsap-mojito-cocktails">
-          <img src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" width="350px" alt="Mojito Cocktails" />
-        </a>
+        <a href="https://github.com/garibaldii/api-auto-report">
+        <img src="https://via.placeholder.com/350x200?text=Loading" width="350px" alt="Excel Auto Report" />
       </td>
       <td align="center">
         <a href="https://github.com/garibaldii/front-aws.git">
@@ -131,7 +131,12 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
           <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350px" alt="Cadastro de Professores" />
         </a>
       </td>
-       <td align="center">
+      <td align="center">
+        <a href="https://github.com/garibaldii/gsap-mojito-cocktails">
+          <img src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" width="350px" alt="Mojito Cocktails" />
+        </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/garibaldii/front-estoqueLDS">
           <img src="https://github.com/user-attachments/assets/52d8ee70-b14f-4bde-a228-1f6481648bf8" width="350px" alt="Gerenciador de Estoque" />
         </a>
