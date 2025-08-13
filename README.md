@@ -148,6 +148,8 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
           <img     align="center"  alt="MySQL" title="MySQL" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
         </a>
       </td>
+    </tr>
+    <tr>
       <!-- App Cadastro de Professores -->
       <td align="center">
         <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
@@ -170,6 +172,8 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
             <img    align="left"  alt="Tailwind" title="Tailwind" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
         </a>
       </td>
+    </tr>
+    <tr>
       <!-- Gerenciador de Estoque -->
       <td align="center">
         <a href="https://github.com/garibaldii/front-estoqueLDS">
