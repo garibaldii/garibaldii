@@ -121,14 +121,17 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
         <a href="https://github.com/garibaldii/api-auto-report">
         <img src="https://via.placeholder.com/350x200?text=Loading" width="350px" alt="Excel Auto Report" />
       </td>
-     <td align="center">
-      <a href="https://github.com/garibaldii/front-aws.git">
-        <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350px" alt="Crud AWS" />
-        <div style="display: flex; justify-content: center; gap: 5px; margin-top: 5px;">
-          <img alt="Vite" title="Vite" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-          <img alt="AWS" title="AWS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-        </div>
-      </a>
+    <td align="center">
+          <a href="https://github.com/garibaldii/front-aws.git">
+            <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350px" alt="Crud AWS" />
+            <div style="display: flex; justify-content: center; gap: 5px; margin-top: 5px;">
+              <img alt="Vite" title="Vite" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+              <img alt="AWS" title="AWS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+              <img alt="MongoDB" title="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+              <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+              <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+            </div>
+          </a>
     </td>
       <td align="center">
         <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
