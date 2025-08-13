@@ -148,9 +148,15 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
   </a>
 </td>
       <td align="center">
-        <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
-          <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350px" alt="Cadastro de Professores" />
-        </a>
+          <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
+            <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350px" alt="Cadastro de Professores" />
+            <br/><br/>
+            <img alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+            <img alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+            <img alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+            <img alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+            <img alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          </a>
       </td>
       <td align="center">
         <a href="https://github.com/garibaldii/gsap-mojito-cocktails">
