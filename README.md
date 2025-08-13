@@ -131,7 +131,7 @@ ___
       <!-- Excel Auto Report -->
       <td align="center">
         <a href="https://github.com/garibaldii/api-auto-report">
-          <img src="https://via.placeholder.com/350x200?text=Loading" width="350" height="200" alt="Excel Auto Report" />
+           <img src="https://github.com/user-attachments/assets/eed356c1-b6a1-4cdb-b382-a6d57c3fd219" width="350" height="200" alt="Excel Auto Report"/>
         </a>
         <p align="center">
           <img       alt="Spring" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
