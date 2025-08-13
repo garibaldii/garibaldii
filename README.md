@@ -133,7 +133,7 @@ ___
     <tr>
       <!-- Excel Auto Report -->
       <td align="center">
-        <a href="https://github.com/garibaldii/api-auto-report">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/garibaldii/api-auto-report">
            <img src="https://github.com/user-attachments/assets/eed356c1-b6a1-4cdb-b382-a6d57c3fd219" width="400"  alt="Excel Auto Report"/>
         </a>
         <p>
@@ -143,7 +143,7 @@ ___
       </td>
       <!-- CRUD AWS -->
       <td align="center">
-        <a href="https://github.com/garibaldii/front-aws.git">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/garibaldii/front-aws.git">
           <img width="450" alt="CRUD AWS" src="https://github.com/user-attachments/assets/b53edaeb-8caf-4f88-9239-6aa568423895" />
         </a>
         <p>
@@ -156,7 +156,7 @@ ___
       </td>
       <!-- App Cadastro de Professores -->
       <td align="center">
-        <a href="https://github.com/proj-cadastro/projeto-cadastro-app">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/proj-cadastro/projeto-cadastro-app">
           <img src="https://github.com/user-attachments/assets/00f6311f-b4e4-474b-8858-5e6ae7b97e63" width="350" height="200" alt="Cadastro de Professores" />
         </a>
         <p>
@@ -169,7 +169,7 @@ ___
       </td>
       <!-- Mojito Cocktails -->
       <td align="center">
-        <a href="https://github.com/garibaldii/gsap-mojito-cocktails">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/garibaldii/gsap-mojito-cocktails">
           <img src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" width="350" height="200" alt="Mojito Cocktails" />
         </a>
         <p>
@@ -181,7 +181,7 @@ ___
       </td>
       <!-- Gerenciador de Estoque -->
       <td align="center">
-        <a href="https://github.com/garibaldii/front-estoqueLDS">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/garibaldii/front-estoqueLDS">
           <img src="https://github.com/user-attachments/assets/52d8ee70-b14f-4bde-a228-1f6481648bf8" width="350" height="200" alt="Gerenciador de Estoque" />
         </a>
         <p>
