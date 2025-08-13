@@ -144,7 +144,7 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
           <img     align="left"  alt="JavaScript" title="JavaScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           <img     align="right"  alt="Vite" title="Vite" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
           <img     align="left"  alt="AWS" title="AWS" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-          <img     align="right"  alt="MongoDB" title="MongoDB" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  
+          <img     align="right"  alt="MongoDB" title="MongoDB" width="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  
           <img     align="center"  alt="MySQL" title="MySQL" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
         </a>
       </td>
