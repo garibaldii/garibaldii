@@ -164,12 +164,22 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
       <td align="center">
         <a href="https://github.com/garibaldii/gsap-mojito-cocktails">
           <img src="https://github.com/user-attachments/assets/8e0a2bd7-1b4b-4b73-9673-36005a270a27" width="350" height="200" alt="Mojito Cocktails" />
+            <br/>
+            <img alt="JavaScript" title="JavaScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img alt="Vite" title="Vite" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+            <img alt="Tailwind" title="Tailwind" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
         </a>
       </td>
       <!-- Gerenciador de Estoque -->
       <td align="center">
         <a href="https://github.com/garibaldii/front-estoqueLDS">
           <img src="https://github.com/user-attachments/assets/52d8ee70-b14f-4bde-a228-1f6481648bf8" width="350" height="200" alt="Gerenciador de Estoque" />
+            <br/>
+            <img alt="TypeScript" title="TypeScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+            <img alt="Next.js" title="Next.js" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+            <img alt="React" title="React" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+            <img alt="MongoDB" title="MongoDB" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+            <img alt="Tailwind" title="Tailwind" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
         </a>
       </td>
     </tr>
