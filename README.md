@@ -142,9 +142,9 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
           <img src="https://github.com/user-attachments/assets/63a012e2-188b-4568-9e6d-33aba4de40a7" width="350" height="200" alt="Crud AWS" />
           <br/>
           <img     align="left"  alt="JavaScript" title="JavaScript" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          <img     align="left"  alt="Vite" title="Vite" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+          <img     align="right"  alt="Vite" title="Vite" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
           <img     align="left"  alt="AWS" title="AWS" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-          <img     align="left"  alt="MongoDB" title="MongoDB" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  
+          <img     align="right"  alt="MongoDB" title="MongoDB" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />  
           <img     align="left"  alt="MySQL" title="MySQL" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
         </a>
       </td>
