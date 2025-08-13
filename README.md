@@ -130,7 +130,7 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
       <td align="center">
         <a href="https://github.com/garibaldii/api-auto-report">
         <img src="https://via.placeholder.com/350x200?text=Loading" width="350px" alt="Excel Auto Report" />
-        <div> 
+        <div style="margin-top: 30px;"> 
             <img alt="Spring" title="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
             <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
         </div>
