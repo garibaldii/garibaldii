@@ -12,6 +12,16 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
 />
 
 <img 
+    align="left"
+    alt="Spring" 
+    title="Spring" 
+    width="20px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+/>
+
+
+<img 
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
@@ -120,6 +130,10 @@ Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interess
       <td align="center">
         <a href="https://github.com/garibaldii/api-auto-report">
         <img src="https://via.placeholder.com/350x200?text=Loading" width="350px" alt="Excel Auto Report" />
+        <div> 
+            <img alt="Spring" title="Spring" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+            <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+        </div>
       </td>
    <td align="center">
   <a href="https://github.com/garibaldii/front-aws.git">
