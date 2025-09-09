@@ -1,6 +1,6 @@
 Estudante de Desenvolvimento de Software Multiplataformas na FATEC, com interesse em back-end, APIs e desenvolvimento em nuvem. Tenho experiência prática com tecnologias como TypeScript, Java, Node.js, Spring Boot, React, Next.js, Angular, MongoDB e Docker. Já desenvolvi soluções completas com REST APIs, integração com bancos NoSQL, autenticação, e CI/CD usando GitHub Actions. Também estou sempre me aprofundando em temas como redes, servidores, automação, arquitetura de software e ambientes em cloud computing.
 
-Confira meu portfólio -> <a href="https://garibaldii.vercel.app/"/>
+Confira meu portfólio -> <a href="https://garibaldii.vercel.app/">https://garibaldii.vercel.app/</a>
 ___
 
 ### Linguagens e Tecnologias
