@@ -199,19 +199,4 @@ ___
 
 <br/>
 
-___
 
-### Estatísticas
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=garibaldii&show_icons=true&theme=outrun&locale=pt-br" 
-    alt="Github Stats" 
-    height="200px" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=garibaldii&theme=outrun&layout=compact&custom_title=Tecnologias" 
-    alt="Top Langs" 
-    height="200px" 
-  />
-</p>
